@@ -1,5 +1,5 @@
 # Fidget-toy
-A Blueprint project to make a 3d-printable fidget toy of my own!
+A Blueprint project to make a 3D-printable fidget toy of my own!
 
 ---
 
@@ -8,6 +8,17 @@ A Blueprint project to make a 3d-printable fidget toy of my own!
 
 ### 3D Printing Model
 ![Printing Model](Images/printingmodel.png)
+
+---
+
+### Finished Fidget Toy
+**Picture of the toy:**
+
+![Fidget Toy Photo](IMG_3808.jpg)
+
+**Video of the toy:**
+
+[Watch the fidget toy video](IMG_3809.MOV)
 
 ---
 
