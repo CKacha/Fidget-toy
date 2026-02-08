@@ -16,9 +16,9 @@ A Blueprint project to make a 3D-printable fidget toy of my own!
 
 ![Fidget Toy Photo](Images/IMG_3808.jpg)
 
-**Video of the toy:**
+**Video:**
 
-[Watch the fidget toy video](Images/IMG_3809.MOV)
+[vibeo](Images/IMG_3809.MOV)
 
 ---
 
